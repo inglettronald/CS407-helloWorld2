@@ -1,4 +1,4 @@
-package com.cs407.HelloWorld;
+package com.cs407.helloworld;
 
 import androidx.appcompat.app.AppCompatActivity;
 

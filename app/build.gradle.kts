@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cs407.HelloWorld"
+    namespace = "com.cs407.helloworld"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.cs407.HelloWorld"
+        applicationId = "com.cs407.helloworld"
         minSdk = 26
         targetSdk = 33
         versionCode = 1
